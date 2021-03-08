@@ -1,6 +1,6 @@
 repeat
 wait()
 until game:IsLoaded()
-local CypherBrew = 'https://raw.githubusercontent.com/EnvySploitGodZ/CypherBrew/main/.ecrypted'
+local CypherBrew = 'https://pastebin.com/raw/7BarraKW'
 
 loadstring(game:HttpGet(CypherBrew))()
